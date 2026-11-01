@@ -1,0 +1,12 @@
+Gaza Disciplinary Camp multi-page website
+- index.html: Home
+- meaning.html: What It Means
+- about.html: About Us
+- programmes.html: Programmes
+- fees.html: Camp Fees
+- application.html: Parent/Guardian Application
+- impact.html: Expected Community Impact
+- contact.html: Contact
+- The YouTube channel is linked in the navigation and Home page.
+- Copy your existing assets/ folder (logo.jpg, hero.png and any other assets) alongside these HTML files before publishing.
+- Upload all HTML files to the same hosting directory. Keep the FormSubmit form endpoint and verify the FormSubmit email activation for the recipient.
